@@ -1,0 +1,5 @@
+namespace migrate
+
+func main() {
+    println("migrate: not implemented yet")
+}

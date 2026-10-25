@@ -1,0 +1,2 @@
+// migrate: scaffold. The code moves here from the main repo (std/data/data_migrate.zl), see docs/EXTRACTION.md there.
+namespace migrate
